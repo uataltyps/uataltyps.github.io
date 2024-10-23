@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uataltyps.github.io/uataltyps.uataltyps
+Sitemap: https://uataltyps.github.io/app/uataltyps.uataltyps
+Sitemap: https://uataltyps.github.io/assets/uataltyps.uataltyps
+Sitemap: https://uataltyps.github.io/css/uataltyps.uataltyps
+Sitemap: https://uataltyps.github.io/includes/uataltyps.uataltyps
+Sitemap: https://uataltyps.github.io/item/uataltyps.uataltyps
+Sitemap: https://uataltyps.github.io/src/uataltyps.uataltyps
